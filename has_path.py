@@ -27,5 +27,6 @@ def has_path_recur(graph, src: str, dest: str):
     return False
 
 
-print(has_path(graph, "f", "h"))
-print(has_path_recur(graph, "f", "h"))
+if __name__ == "__main__":
+    print(has_path(graph, "f", "h"))
+    print(has_path_recur(graph, "f", "h"))
