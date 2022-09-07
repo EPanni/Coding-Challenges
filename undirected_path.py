@@ -59,5 +59,4 @@ def undirected_path(edges, node_A, node_B) -> bool:
 
 edges = [("i", "j"), ("k", "i"), ("m", "k"), ("k", "l"), ("o", "n")]
 
-a = undirected_path(edges, "l", "j")  # -> True
-print(a)
+undirected_path(edges, "l", "j")  # -> True
