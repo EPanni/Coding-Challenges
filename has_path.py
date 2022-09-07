@@ -1,4 +1,5 @@
 """ Algorithm to find if it is possible the destination X when staring by Y """
+# Note: The challenge defined the input as a non-cyclic graph
 
 graph = {"f": ["g", "i"], "g": "h", "h": "", "i": ["k", "g"], "j": "i", "k": ""}
 
