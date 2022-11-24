@@ -1,4 +1,5 @@
 # Coding-Challenges
-Starting on Coding Challenges, saving on this repository.
+
+Coding Challenges
 
 Each branch correponds to a different challenge.
